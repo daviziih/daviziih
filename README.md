@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-![Snake animation](https://github.com/Daviziih/Daviziih/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **Daviziih/Daviziih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
