@@ -3,6 +3,9 @@
 
 ![Snake animation](https://github.com/Daviziih/Daviziih/blob/output/github-contribution-grid-snake.svg)
 
+<div align="center">
+  <p>Feito com :heart: e JavaScript.</p>
+</div>
 <!--
 **Daviziih/Daviziih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
