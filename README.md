@@ -1,4 +1,4 @@
-### Hi there 👋
+### 💬 Ask me about ...
 
 
 ![Snake animation](https://github.com/Daviziih/Daviziih/blob/output/github-contribution-grid-snake.svg)
