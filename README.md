@@ -1,6 +1,14 @@
-<img align="right" src="https://github.com/darrow12/darrow12/blob/main/images/undraw_programming_2svr.svg" width="410"/>
+<img align="right" src="https://github.com/Daviziih/Daviziih/blob/main/.github/workflows/programming_svr.svg" width="410"/>
 
-##Olá, meu nome é Davi
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Davi Gabriel</h1>
+
+- 🔥 Junior Web Developer and I'm studying Bachelor of Computer Science
+
+- 👨‍💻 All of my projects are available at [daviziih.com](https://daviziih.com)
+
+- 💬 Ask me about **JavaScript, HTML, CSS, JAVA, React**
+
+- ⚡ Fun fact **Musician 🎸**
 
 ![Snake animation](https://github.com/Daviziih/Daviziih/blob/output/github-contribution-grid-snake.svg)
 
