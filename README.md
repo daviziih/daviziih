@@ -11,7 +11,7 @@
 - ⚡ Fun fact **Musician 🎸**
 
 <!--![Snake animation](https://github.com/Daviziih/Daviziih/blob/output/github-contribution-grid-snake.svg)-->
-<br><br>
+<br>
 
 <div align="center">
   <p>Feito com :heart: e JavaScript.</p>
