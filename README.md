@@ -1,4 +1,6 @@
-### 💬 Ask me about ..
+<img align="right" src="https://github.com/darrow12/darrow12/blob/main/images/undraw_programming_2svr.svg" width="410"/>
+
+Olá, meu nome é Davi
 
 ![Snake animation](https://github.com/Daviziih/Daviziih/blob/output/github-contribution-grid-snake.svg)
 
