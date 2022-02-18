@@ -4,7 +4,7 @@
 
 - 🔥 Junior Web Developer & I'm studying Bachelor of Computer Science
 
-- 👨‍💻 All of my projects are available at [daviziih.com](https://daviziih.com)
+- 👨‍💻 All of my projects are available at [daviziih.tk](https://daviziih.tk)
 
 - 🔭 I’m currently working on **JavaScript, HTML, CSS, JAVA, React**
 
