@@ -2,7 +2,7 @@
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Davi Gabriel</h1>
 
-- 🔥 Junior Web Developer and I'm studying Bachelor of Computer Science
+- 🔥 Junior Web Developer & I'm studying Bachelor of Computer Science
 
 - 👨‍💻 All of my projects are available at [daviziih.com](https://daviziih.com)
 
