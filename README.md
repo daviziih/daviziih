@@ -14,7 +14,7 @@
 <br>
 
 <div align="center">
-  <p>Feito com :heart: e JavaScript.</p>
+  <p> Done with :heart: and JavaScript.</p>
 </div>
 <!--
 **Daviziih/Daviziih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
