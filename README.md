@@ -11,7 +11,6 @@
 - ⚡ Fun fact **Musician 🎸**
 
 <!--![Snake animation](https://github.com/Daviziih/Daviziih/blob/output/github-contribution-grid-snake.svg)-->
-<br>
 
 <h2> DICA </H2>
 
