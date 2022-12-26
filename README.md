@@ -2,8 +2,6 @@
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Davi Gabriel</h1>
 
-<h1> Não programar é a melhor forma de criar aplicações seguras e confiáveis. Escreva nada; disponibileze em lugar nenhum. </h2>SIMPLES </h2>  </h1>
-
 - 🔥 Junior Full-Stack Developer & I'm studying Bachelor of Computer Science
 
 - 👨‍💻 All of my projects are available at [daviziih.com](https://daviziih.com)
@@ -14,6 +12,8 @@
 
 <!--![Snake animation](https://github.com/Daviziih/Daviziih/blob/output/github-contribution-grid-snake.svg)-->
 <br>
+
+<h2> DICA </H2>
 
 <div align="center">
   <p> Done with :heart: and JavaScript.</p>
