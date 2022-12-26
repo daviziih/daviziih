@@ -14,7 +14,7 @@
 
 <h2> DICA </H2>
 
-<p> - 💡 Não programar é a melhor forma de criar aplicações seguras e confiáveis. Escreva nada; disponibileze em lugar nenhum. </p>
+<p> - 💡 Não programar é a melhor forma de criar aplicações seguras e confiáveis. Escreva nada; disponibilize em lugar nenhum. </p>
 
 <br>
 <div align="center">
