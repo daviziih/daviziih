@@ -12,9 +12,9 @@
 
 <!--![Snake animation](https://github.com/Daviziih/Daviziih/blob/output/github-contribution-grid-snake.svg)-->
 
-<h2> DICA </H2>
+<!--<h2> DICA </H2>
 
-<p> - 💡 Não programar é a melhor forma de criar aplicações seguras e confiáveis. Escreva nada; disponibilize em lugar nenhum. </p>
+<p> - 💡 Não programar é a melhor forma de criar aplicações seguras e confiáveis. Escreva nada; disponibilize em lugar nenhum. </p>-->
 
 <br>
 <div align="center">
