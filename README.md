@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [daviziih.com](https://daviziih.com)
 
-- 🔭 I’m currently working on **JavaScript, HTML, CSS, JAVA, React**
+- 🔭 I’m currently working on **FullStack, React, NodeJS**
 
 - ⚡ Fun fact **Musician 🎸**
 
