@@ -1,4 +1,4 @@
-<a aling="right" href="https://app.rocketseat.com.br/me/daviziih"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=daviziih&type=card" width="280" alt="Davi Anjo Gabriel's Rocket ID"/></a>
+<a align="right" href="https://app.rocketseat.com.br/me/daviziih"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=daviziih&type=card" width="280" alt="Davi Anjo Gabriel's Rocket ID"/></a>
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Davi Gabriel</h1>
 
