@@ -10,7 +10,7 @@
 
 - ⚡ Fun fact **Musician 🎸**
 
-<!--![Snake animation](https://github.com/Daviziih/Daviziih/blob/output/github-contribution-grid-snake.svg)-->
+![Snake animation](https://github.com/Daviziih/Daviziih/blob/output/github-contribution-grid-snake.svg)
 
 <!--<h2> DICA </H2>
 
