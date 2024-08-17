@@ -4,7 +4,7 @@
 
 - 🔥 Junior Full-Stack Developer & I'm studying Bachelor of Computer Science
 
-- 👨‍💻 All of my projects are available at [daviziih.com](https://daviziih.com)
+- 👨‍💻 All of my projects are available at [daviziih.dev](https://daviziih.dev)
 
 - 🔭 I’m currently working on **FullStack, React, NodeJS**
 
