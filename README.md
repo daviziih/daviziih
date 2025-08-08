@@ -2,8 +2,8 @@
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Davi Gabriel</h1>
 
-- 🔥 Junior Front-end Developer & I'm studying Bachelor of Computer Science
-
+- 🔥 Technical Assistant and Bachelor of Computer Science
+  
 - 👨‍💻 All of my projects are available at [daviziih.dev](https://daviziih.dev)
 
 - 🔭 I’m currently working on **FullStack, React, NodeJS**
